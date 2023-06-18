@@ -1,0 +1,3 @@
+# To keep logs folder but to ignore .gitkeep
+logs/*
+!.gitkeep

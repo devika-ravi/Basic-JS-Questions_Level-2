@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#coder {
+    width: 200px;
+    border: 3px solid hotpink;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+
+.header h1 {
+    font-size: 30px;
+    color: hotpink;
+}
+
+.questionContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.questions {
+    font-size: 25px; 
+    text-decoration: none;
+    padding: 20px;
+    background-color: lightcoral;
+    border: 3px dashed darkmagenta;
+   border-radius: 50px;
+}
+
+.taskContainer {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.taskContainer1 {
+    color:darkviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.taskContainer2 {
+    color: indigo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.taskContainer3 {
+    color:darkviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.taskContainer4 {
+    color: indigo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.taskContainer5 {
+    color:darkviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.task {
+    margin: 3px;
+    padding: 10px;
+}
+
+.task a {
+    text-decoration: none;
+    padding: 10px;
+    background-color:cornflowerblue;
+    border: 2px solid blue;
+    border-radius: 20px;
+}
